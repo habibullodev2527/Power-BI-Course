@@ -1,0 +1,8 @@
+ProductID,ProductName,Category
+201,Laptop,Electronics
+202,Phone,Electronics
+203,Tablet,Electronics
+204,Printer,Office
+205,Monitor,Electronics
+206,Keyboard,Accessories
+207,Mouse,Accessories

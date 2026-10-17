@@ -1,0 +1,7 @@
+1) Split name column into 2 parts lastname and firstname
+2) remove email column
+3) convert age column to whole number if error replace it with null or 0
+4) Replace N/A to blank or null in region column
+5) Convert Purchase amount to fixed decimal, replace error with 0
+6) add conditional column if purchase amount below than 0 then Refunded, 0 then not-funded else funded
+7) duplicate table and make aggregation to find how many purchases are funded

@@ -1,0 +1,5 @@
+DoctorID,DoctorName,Specialization,ExperienceYears,Department,Country
+D001,Dr. Smith,Cardiology,15,Cardiology,USA
+D002,Dr. Lee,Dermatology,10,Dermatology,UK
+D003,Dr. Tanaka,Neurology,12,Neurology,Japan
+D004,Dr. Muller,Orthopedics,18,Orthopedics,Germany

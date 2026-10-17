@@ -1,0 +1,88 @@
+HouseID,Date,City,Price,Rooms,Area,Type
+1,2024-01-01,New York,500000,3,120,Apartment
+2,2024-01-02,Chicago,300000,2,90,Apartment
+3,2024-01-03,London,700000,4,150,House
+4,2024-01-04,Tokyo,450000,3,110,Apartment
+5,2024-01-05,Berlin,350000,2,95,Apartment
+6,2024-01-06,Paris,600000,3,130,Apartment
+7,2024-01-07,Dubai,800000,4,180,Villa
+8,2024-01-08,Singapore,750000,3,140,Apartment
+9,2024-01-09,Istanbul,280000,2,85,Apartment
+10,2024-01-10,Seoul,520000,3,115,Apartment
+11,2024-01-11,New York,950000,5,200,House
+12,2024-01-12,Chicago,320000,3,100,Apartment
+13,2024-01-13,London,820000,4,160,House
+14,2024-01-14,Tokyo,470000,3,120,Apartment
+15,2024-01-15,Berlin,360000,2,90,Apartment
+16,2024-01-16,Paris,620000,3,135,Apartment
+17,2024-01-17,Dubai,900000,5,220,Villa
+18,2024-01-18,Singapore,780000,3,145,Apartment
+19,2024-01-19,Istanbul,290000,2,88,Apartment
+20,2024-01-20,Seoul,540000,3,118,Apartment
+21,2024-01-21,New York,870000,4,190,House
+22,2024-01-22,Chicago,310000,2,92,Apartment
+23,2024-01-23,London,780000,4,155,House
+24,2024-01-24,Tokyo,460000,3,112,Apartment
+25,2024-01-25,Berlin,340000,2,93,Apartment
+26,2024-01-26,Paris,610000,3,132,Apartment
+27,2024-01-27,Dubai,880000,4,210,Villa
+28,2024-01-28,Singapore,760000,3,142,Apartment
+29,2024-01-29,Istanbul,300000,2,87,Apartment
+30,2024-01-30,Seoul,530000,3,117,Apartment
+31,2024-02-01,New York,920000,5,205,House
+32,2024-02-02,Chicago,330000,3,102,Apartment
+33,2024-02-03,London,800000,4,158,House
+34,2024-02-04,Tokyo,480000,3,122,Apartment
+35,2024-02-05,Berlin,355000,2,96,Apartment
+36,2024-02-06,Paris,630000,3,138,Apartment
+37,2024-02-07,Dubai,910000,5,230,Villa
+38,2024-02-08,Singapore,790000,3,148,Apartment
+39,2024-02-09,Istanbul,295000,2,89,Apartment
+40,2024-02-10,Seoul,550000,3,120,Apartment
+41,2024-02-11,New York,880000,4,195,House
+42,2024-02-12,Chicago,315000,2,94,Apartment
+43,2024-02-13,London,790000,4,157,House
+44,2024-02-14,Tokyo,455000,3,113,Apartment
+45,2024-02-15,Berlin,345000,2,92,Apartment
+46,2024-02-16,Paris,615000,3,134,Apartment
+47,2024-02-17,Dubai,870000,4,205,Villa
+48,2024-02-18,Singapore,770000,3,143,Apartment
+49,2024-02-19,Istanbul,285000,2,86,Apartment
+50,2024-02-20,Seoul,525000,3,116,Apartment
+51,2024-02-21,New York,910000,5,210,House
+52,2024-02-22,Chicago,340000,3,105,Apartment
+53,2024-02-23,London,830000,4,162,House
+54,2024-02-24,Tokyo,490000,3,125,Apartment
+55,2024-02-25,Berlin,365000,2,98,Apartment
+56,2024-02-26,Paris,640000,3,140,Apartment
+57,2024-02-27,Dubai,920000,5,235,Villa
+58,2024-02-28,Singapore,800000,3,150,Apartment
+59,2024-02-29,Istanbul,305000,2,90,Apartment
+60,2024-03-01,Seoul,560000,3,122,Apartment
+61,2024-03-02,New York,930000,5,215,House
+62,2024-03-03,Chicago,350000,3,108,Apartment
+63,2024-03-04,London,840000,4,165,House
+64,2024-03-05,Tokyo,500000,3,128,Apartment
+65,2024-03-06,Berlin,370000,2,100,Apartment
+66,2024-03-07,Paris,650000,3,142,Apartment
+67,2024-03-08,Dubai,940000,5,240,Villa
+68,2024-03-09,Singapore,820000,3,152,Apartment
+69,2024-03-10,Istanbul,310000,2,92,Apartment
+70,2024-03-11,Seoul,570000,3,125,Apartment
+71,2024-03-12,New York,940000,5,220,House
+72,2024-03-13,Chicago,360000,3,110,Apartment
+73,2024-03-14,London,850000,4,170,House
+74,2024-03-15,Tokyo,510000,3,130,Apartment
+75,2024-03-16,Berlin,380000,2,102,Apartment
+76,2024-03-17,Paris,660000,3,145,Apartment
+77,2024-03-18,Dubai,960000,5,245,Villa
+78,2024-03-19,Singapore,830000,3,155,Apartment
+79,2024-03-20,Istanbul,320000,2,95,Apartment
+80,2024-03-21,Seoul,580000,3,128,Apartment
+81,2024-03-22,New York,950000,5,225,House
+82,2024-03-23,Chicago,370000,3,112,Apartment
+83,2024-03-24,London,860000,4,175,House
+84,2024-03-25,Tokyo,520000,3,132,Apartment
+85,2024-03-26,Berlin,390000,2,105,Apartment
+86,2024-03-27,Paris,670000,3,148,Apartment
+87,2024-03-28,Dubai,980000,5,250,Villa

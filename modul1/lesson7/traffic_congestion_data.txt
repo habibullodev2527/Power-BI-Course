@@ -1,0 +1,61 @@
+RecordID,Date,City,RoadName,VehicleType,TrafficVolume,AverageSpeed,CongestionLevel,CongestionIndex,WeatherCondition,AccidentReported,SignalDelay
+1,2024-01-01,Tokyo,Shibuya Crossing,Car,1200,25,High,85,Clear,No,30
+2,2024-01-02,Osaka,Namba Street,Bus,800,20,High,78,Rain,No,40
+3,2024-01-03,London,Oxford Street,Car,1500,18,High,90,Cloudy,Yes,50
+4,2024-01-04,New York,5th Avenue,Taxi,2000,15,High,95,Snow,Yes,60
+5,2024-01-05,Seoul,Gangnam Road,Car,1100,30,Medium,60,Clear,No,20
+6,2024-01-06,Berlin,Unter den Linden,Bus,900,22,Medium,65,Cloudy,No,25
+7,2024-01-07,Paris,Champs Elysees,Car,1400,19,High,88,Rain,Yes,45
+8,2024-01-08,Dubai,Sheikh Zayed Road,Truck,1000,35,Medium,55,Clear,No,15
+9,2024-01-09,Singapore,Orchard Road,Car,1300,28,Medium,70,Clear,No,20
+10,2024-01-10,Istanbul,Taksim Square,Bus,950,18,High,80,Rain,Yes,35
+11,2024-01-11,Tokyo,Shinjuku Avenue,Car,1600,22,High,92,Cloudy,No,50
+12,2024-01-12,Osaka,Umeda Road,Taxi,850,24,Medium,60,Clear,No,20
+13,2024-01-13,London,Baker Street,Car,1450,20,High,85,Rain,Yes,40
+14,2024-01-14,New York,Broadway,Bus,2100,16,High,96,Snow,Yes,55
+15,2024-01-15,Seoul,Itaewon Road,Car,1000,32,Low,40,Clear,No,10
+16,2024-01-16,Berlin,Friedrichstrasse,Car,950,26,Medium,55,Cloudy,No,20
+17,2024-01-17,Paris,Rue de Rivoli,Taxi,1200,21,Medium,68,Rain,No,25
+18,2024-01-18,Dubai,Jumeirah Road,Car,1100,34,Low,45,Clear,No,10
+19,2024-01-19,Singapore,Marina Bay Road,Bus,1250,27,Medium,65,Cloudy,No,20
+20,2024-01-20,Istanbul,Besiktas Road,Car,980,19,High,78,Rain,Yes,35
+21,2024-01-21,Tokyo,Ginza Street,Taxi,1500,23,High,90,Clear,No,40
+22,2024-01-22,Osaka,Tennoji Road,Car,870,25,Medium,60,Clear,No,18
+23,2024-01-23,London,Regent Street,Bus,1550,17,High,88,Rain,Yes,45
+24,2024-01-24,New York,Madison Avenue,Car,2050,14,High,97,Snow,Yes,60
+25,2024-01-25,Seoul,Hongdae Street,Taxi,1020,31,Low,42,Clear,No,12
+26,2024-01-26,Berlin,Alexanderplatz,Car,920,24,Medium,58,Cloudy,No,22
+27,2024-01-27,Paris,Boulevard Saint Germain,Bus,1350,20,High,82,Rain,Yes,38
+28,2024-01-28,Dubai,Al Khail Road,Truck,1150,36,Low,48,Clear,No,10
+29,2024-01-29,Singapore,Sentosa Road,Car,1280,29,Medium,66,Clear,No,18
+30,2024-01-30,Istanbul,Kadikoy Road,Taxi,970,18,High,80,Rain,Yes,34
+31,2024-02-01,Tokyo,Akihabara Street,Car,1400,24,High,87,Cloudy,No,35
+32,2024-02-02,Osaka,Sakai Road,Bus,890,23,Medium,62,Clear,No,20
+33,2024-02-03,London,Piccadilly,Car,1600,19,High,90,Rain,Yes,48
+34,2024-02-04,New York,Wall Street,Taxi,2100,13,High,98,Snow,Yes,65
+35,2024-02-05,Seoul,Myeongdong Street,Car,1080,30,Low,45,Clear,No,15
+36,2024-02-06,Berlin,Potsdamer Platz,Car,940,25,Medium,57,Cloudy,No,20
+37,2024-02-07,Paris,Avenue Montaigne,Taxi,1220,21,Medium,70,Rain,No,25
+38,2024-02-08,Dubai,Al Wasl Road,Car,1120,33,Low,44,Clear,No,10
+39,2024-02-09,Singapore,Bugis Street,Bus,1300,27,Medium,65,Cloudy,No,22
+40,2024-02-10,Istanbul,Uskudar Road,Car,990,19,High,79,Rain,Yes,33
+41,2024-02-11,Tokyo,Roppongi Road,Taxi,1500,23,High,91,Clear,No,40
+42,2024-02-12,Osaka,Shinsaibashi Street,Car,860,26,Medium,58,Clear,No,18
+43,2024-02-13,London,Tottenham Court Road,Bus,1580,18,High,89,Rain,Yes,45
+44,2024-02-14,New York,Park Avenue,Car,2080,14,High,97,Snow,Yes,60
+45,2024-02-15,Seoul,Jamsil Road,Taxi,1050,31,Low,43,Clear,No,12
+46,2024-02-16,Berlin,Charlottenburg Road,Car,930,24,Medium,56,Cloudy,No,20
+47,2024-02-17,Paris,La Defense Road,Bus,1380,20,High,83,Rain,Yes,37
+48,2024-02-18,Dubai,Emirates Road,Truck,1180,35,Low,47,Clear,No,10
+49,2024-02-19,Singapore,Chinatown Street,Car,1260,28,Medium,64,Clear,No,18
+50,2024-02-20,Istanbul,Fatih Road,Taxi,980,18,High,80,Rain,Yes,34
+51,2024-02-21,Tokyo,Harajuku Street,Car,1420,24,High,88,Cloudy,No,35
+52,2024-02-22,Osaka,Kyobashi Road,Bus,880,23,Medium,61,Clear,No,20
+53,2024-02-23,London,Camden Street,Car,1620,19,High,91,Rain,Yes,48
+54,2024-02-24,New York,Lexington Avenue,Taxi,2120,13,High,98,Snow,Yes,65
+55,2024-02-25,Seoul,Guro Road,Car,1090,30,Low,46,Clear,No,15
+56,2024-02-26,Berlin,Kreuzberg Street,Car,950,25,Medium,58,Cloudy,No,20
+57,2024-02-27,Paris,Opera Street,Taxi,1210,21,Medium,69,Rain,No,25
+58,2024-02-28,Dubai,Al Barsha Road,Car,1130,33,Low,45,Clear,No,10
+59,2024-02-29,Singapore,Little India Street,Bus,1310,27,Medium,65,Cloudy,No,22
+60,2024-03-01,Istanbul,Bosphorus Road,Car,1000,19,High,82,Rain,Yes,35

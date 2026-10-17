@@ -1,0 +1,101 @@
+ID,Date,City,Road,TrafficVolume,Speed,CongestionLevel
+1,2024-01-01,Tokyo,Shibuya,1200,25,High
+2,2024-01-02,Osaka,Namba,900,30,Medium
+3,2024-01-03,London,Oxford,1500,20,High
+4,2024-01-04,New York,5th Ave,2000,15,High
+5,2024-01-05,Seoul,Gangnam,1100,35,Low
+6,2024-01-06,Berlin,Alexanderplatz,950,28,Medium
+7,2024-01-07,Paris,Champs Elysees,1400,22,High
+8,2024-01-08,Dubai,Sheikh Zayed,1000,40,Low
+9,2024-01-09,Singapore,Orchard,1300,30,Medium
+10,2024-01-10,Istanbul,Taksim,1250,20,High
+11,2024-01-11,Tokyo,Ginza,1600,24,High
+12,2024-01-12,Osaka,Umeda,850,32,Medium
+13,2024-01-13,London,Baker Street,1450,21,High
+14,2024-01-14,New York,Broadway,2100,14,High
+15,2024-01-15,Seoul,Itaewon,1050,36,Low
+16,2024-01-16,Berlin,Friedrich,980,27,Medium
+17,2024-01-17,Paris,Rivoli,1350,23,High
+18,2024-01-18,Dubai,Jumeirah,1150,38,Low
+19,2024-01-19,Singapore,Marina Bay,1280,29,Medium
+20,2024-01-20,Istanbul,Besiktas,1200,19,High
+21,2024-01-21,Tokyo,Akihabara,1500,26,High
+22,2024-01-22,Osaka,Tennoji,870,31,Medium
+23,2024-01-23,London,Piccadilly,1550,18,High
+24,2024-01-24,New York,Madison,2050,13,High
+25,2024-01-25,Seoul,Hongdae,1080,34,Low
+26,2024-01-26,Berlin,Potsdamer,920,26,Medium
+27,2024-01-27,Paris,Montmartre,1380,22,High
+28,2024-01-28,Dubai,Al Khail,1180,37,Low
+29,2024-01-29,Singapore,Sentosa,1290,30,Medium
+30,2024-01-30,Istanbul,Kadikoy,1220,20,High
+31,2024-01-31,Tokyo,Roppongi,1480,25,High
+32,2024-02-01,Osaka,Shinsaibashi,890,33,Medium
+33,2024-02-02,London,Regent,1520,19,High
+34,2024-02-03,New York,Wall Street,2200,12,High
+35,2024-02-04,Seoul,Jamsil,1090,35,Low
+36,2024-02-05,Berlin,Kreuzberg,940,27,Medium
+37,2024-02-06,Paris,Opera,1360,23,High
+38,2024-02-07,Dubai,Al Wasl,1120,39,Low
+39,2024-02-08,Singapore,Bugis,1310,29,Medium
+40,2024-02-09,Istanbul,Fatih,1210,18,High
+41,2024-02-10,Tokyo,Harajuku,1490,26,High
+42,2024-02-11,Osaka,Sakai,880,32,Medium
+43,2024-02-12,London,Camden,1580,18,High
+44,2024-02-13,New York,Lexington,2150,13,High
+45,2024-02-14,Seoul,Guro,1070,34,Low
+46,2024-02-15,Berlin,Charlottenburg,930,25,Medium
+47,2024-02-16,Paris,La Defense,1390,22,High
+48,2024-02-17,Dubai,Emirates Rd,1170,38,Low
+49,2024-02-18,Singapore,Chinatown,1270,30,Medium
+50,2024-02-19,Istanbul,Uskudar,1190,19,High
+51,2024-02-20,Tokyo,Shinagawa,1470,26,High
+52,2024-02-21,Osaka,Kyobashi,860,33,Medium
+53,2024-02-22,London,Soho,1530,20,High
+54,2024-02-23,New York,Park Ave,2180,14,High
+55,2024-02-24,Seoul,Myeongdong,1060,35,Low
+56,2024-02-25,Berlin,Neukolln,910,27,Medium
+57,2024-02-26,Paris,Bastille,1370,23,High
+58,2024-02-27,Dubai,Al Barsha,1140,39,Low
+59,2024-02-28,Singapore,Little India,1320,29,Medium
+60,2024-02-29,Istanbul,Bosphorus,1230,20,High
+61,2024-03-01,Tokyo,Asakusa,1460,27,High
+62,2024-03-02,Osaka,Nishinari,870,32,Medium
+63,2024-03-03,London,Mayfair,1510,21,High
+64,2024-03-04,New York,Canal Street,2100,15,High
+65,2024-03-05,Seoul,Yongsan,1080,34,Low
+66,2024-03-06,Berlin,Mitte,920,26,Medium
+67,2024-03-07,Paris,Montparnasse,1380,22,High
+68,2024-03-08,Dubai,Deira,1160,37,Low
+69,2024-03-09,Singapore,Clarke Quay,1300,30,Medium
+70,2024-03-10,Istanbul,Sisli,1240,19,High
+71,2024-03-11,Tokyo,Ikebukuro,1490,25,High
+72,2024-03-12,Osaka,Minato,880,31,Medium
+73,2024-03-13,London,Greenwich,1500,20,High
+74,2024-03-14,New York,Harlem,2050,16,High
+75,2024-03-15,Seoul,Songdo,1090,35,Low
+76,2024-03-16,Berlin,Spandau,930,27,Medium
+77,2024-03-17,Paris,Saint Denis,1360,23,High
+78,2024-03-18,Dubai,Satwa,1150,38,Low
+79,2024-03-19,Singapore,Jurong,1280,30,Medium
+80,2024-03-20,Istanbul,Kartal,1220,19,High
+81,2024-03-21,Tokyo,Odaiba,1450,26,High
+82,2024-03-22,Osaka,Suminoe,860,32,Medium
+83,2024-03-23,London,Hammersmith,1520,19,High
+84,2024-03-24,New York,Queens Blvd,2120,14,High
+85,2024-03-25,Seoul,Mapo,1070,34,Low
+86,2024-03-26,Berlin,Lichtenberg,920,26,Medium
+87,2024-03-27,Paris,Versailles Rd,1370,22,High
+88,2024-03-28,Dubai,Al Rigga,1140,39,Low
+89,2024-03-29,Singapore,Tampines,1290,29,Medium
+90,2024-03-30,Istanbul,Maltepe,1210,20,High
+91,2024-03-31,Tokyo,Shinbashi,1480,25,High
+92,2024-04-01,Osaka,Higashiosaka,870,31,Medium
+93,2024-04-02,London,Ealing,1500,20,High
+94,2024-04-03,New York,Brooklyn Ave,2070,15,High
+95,2024-04-04,Seoul,Seodaemun,1080,34,Low
+96,2024-04-05,Berlin,Treptow,910,27,Medium
+97,2024-04-06,Paris,Neuilly,1380,23,High
+98,2024-04-07,Dubai,Karama,1160,38,Low
+99,2024-04-08,Singapore,Punggol,1300,30,Medium
+100,2024-04-09,Istanbul,Beylikduzu,1230,19,High

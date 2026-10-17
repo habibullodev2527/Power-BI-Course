@@ -1,0 +1,51 @@
+TransactionID,Date,CustomerID,CustomerName,AccountType,TransactionType,TransactionAmount,FeeAmount,Branch,City,PaymentMethod,Status
+T001,2024-01-01,C001,Ali Khan,Savings,Deposit,1200,10,Central,New York,Card,Completed
+T002,2024-01-02,C002,Sara Ali,Current,Withdrawal,800,5,West,Chicago,Cash,Completed
+T003,2024-01-03,C003,John Smith,Savings,Deposit,1500,15,Central,London,Online,Completed
+T004,2024-01-04,C004,Aya Nakamura,Savings,Withdrawal,500,5,East,Tokyo,Card,Completed
+T005,2024-01-05,C005,Anna Muller,Current,Deposit,2000,20,Central,Berlin,Online,Completed
+T006,2024-01-06,C006,Jean Dupont,Savings,Withdrawal,300,3,West,Paris,Cash,Completed
+T007,2024-01-07,C001,Ali Khan,Savings,Deposit,1800,12,Central,New York,Card,Completed
+T008,2024-01-08,C002,Sara Ali,Current,Deposit,2200,18,East,Chicago,Online,Completed
+T009,2024-01-09,C003,John Smith,Savings,Withdrawal,700,4,Central,London,Cash,Completed
+T010,2024-01-10,C004,Aya Nakamura,Savings,Deposit,1600,14,East,Tokyo,Card,Completed
+T011,2024-01-11,C005,Anna Muller,Current,Withdrawal,900,6,Central,Berlin,Online,Completed
+T012,2024-01-12,C006,Jean Dupont,Savings,Deposit,1300,11,West,Paris,Card,Completed
+T013,2024-01-13,C001,Ali Khan,Savings,Withdrawal,400,3,Central,New York,Cash,Completed
+T014,2024-01-14,C002,Sara Ali,Current,Deposit,2500,20,West,Chicago,Online,Completed
+T015,2024-01-15,C003,John Smith,Savings,Deposit,1700,13,Central,London,Card,Completed
+T016,2024-01-16,C004,Aya Nakamura,Savings,Withdrawal,600,4,East,Tokyo,Cash,Completed
+T017,2024-01-17,C005,Anna Muller,Current,Deposit,2100,19,Central,Berlin,Online,Completed
+T018,2024-01-18,C006,Jean Dupont,Savings,Withdrawal,350,3,West,Paris,Card,Completed
+T019,2024-01-19,C001,Ali Khan,Savings,Deposit,1900,14,Central,New York,Online,Completed
+T020,2024-01-20,C002,Sara Ali,Current,Withdrawal,750,5,West,Chicago,Cash,Completed
+T021,2024-01-21,C003,John Smith,Savings,Deposit,1600,12,Central,London,Card,Completed
+T022,2024-01-22,C004,Aya Nakamura,Savings,Deposit,1800,15,East,Tokyo,Online,Completed
+T023,2024-01-23,C005,Anna Muller,Current,Withdrawal,950,6,Central,Berlin,Cash,Completed
+T024,2024-01-24,C006,Jean Dupont,Savings,Deposit,1400,10,West,Paris,Card,Completed
+T025,2024-01-25,C001,Ali Khan,Savings,Deposit,2000,16,Central,New York,Online,Completed
+T026,2024-01-26,C002,Sara Ali,Current,Withdrawal,850,5,West,Chicago,Card,Completed
+T027,2024-01-27,C003,John Smith,Savings,Deposit,1750,14,Central,London,Online,Completed
+T028,2024-01-28,C004,Aya Nakamura,Savings,Withdrawal,650,4,East,Tokyo,Cash,Completed
+T029,2024-01-29,C005,Anna Muller,Current,Deposit,2200,18,Central,Berlin,Card,Completed
+T030,2024-01-30,C006,Jean Dupont,Savings,Deposit,1500,12,West,Paris,Online,Completed
+T031,2024-02-01,C001,Ali Khan,Savings,Withdrawal,500,3,Central,New York,Cash,Completed
+T032,2024-02-02,C002,Sara Ali,Current,Deposit,2600,22,East,Chicago,Online,Completed
+T033,2024-02-03,C003,John Smith,Savings,Deposit,1800,15,Central,London,Card,Completed
+T034,2024-02-04,C004,Aya Nakamura,Savings,Withdrawal,700,4,East,Tokyo,Cash,Completed
+T035,2024-02-05,C005,Anna Muller,Current,Deposit,2300,20,Central,Berlin,Online,Completed
+T036,2024-02-06,C006,Jean Dupont,Savings,Deposit,1600,13,West,Paris,Card,Completed
+T037,2024-02-07,C001,Ali Khan,Savings,Deposit,2100,17,Central,New York,Online,Completed
+T038,2024-02-08,C002,Sara Ali,Current,Withdrawal,900,6,West,Chicago,Cash,Completed
+T039,2024-02-09,C003,John Smith,Savings,Deposit,1900,14,Central,London,Card,Completed
+T040,2024-02-10,C004,Aya Nakamura,Savings,Deposit,2000,16,East,Tokyo,Online,Completed
+T041,2024-02-11,C005,Anna Muller,Current,Withdrawal,1000,7,Central,Berlin,Cash,Completed
+T042,2024-02-12,C006,Jean Dupont,Savings,Deposit,1700,14,West,Paris,Card,Completed
+T043,2024-02-13,C001,Ali Khan,Savings,Deposit,2200,18,Central,New York,Online,Completed
+T044,2024-02-14,C002,Sara Ali,Current,Deposit,2700,23,East,Chicago,Card,Completed
+T045,2024-02-15,C003,John Smith,Savings,Withdrawal,800,5,Central,London,Cash,Completed
+T046,2024-02-16,C004,Aya Nakamura,Savings,Deposit,2100,17,East,Tokyo,Online,Completed
+T047,2024-02-17,C005,Anna Muller,Current,Deposit,2400,21,Central,Berlin,Card,Completed
+T048,2024-02-18,C006,Jean Dupont,Savings,Withdrawal,450,3,West,Paris,Cash,Completed
+T049,2024-02-19,C001,Ali Khan,Savings,Deposit,2300,19,Central,New York,Online,Completed
+T050,2024-02-20,C002,Sara Ali,Current,Withdrawal,950,6,West,Chicago,Card,Completed

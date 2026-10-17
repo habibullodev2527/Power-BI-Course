@@ -1,0 +1,37 @@
+RecordID,UsageDate,HouseholdID,City,Country,EnergyType,EnergyConsumption,UnitCost,TotalCost,Temperature,WeatherCondition
+1,2024-01-01,H001,New York,USA,Electricity,30,0.2,6,5,Cold
+2,2024-01-02,H002,Chicago,USA,Gas,40,0.15,6,2,Cold
+3,2024-01-03,H003,London,UK,Electricity,25,0.25,6.25,7,Cloudy
+4,2024-01-04,H004,Tokyo,Japan,Electricity,35,0.22,7.7,10,Clear
+5,2024-01-05,H005,Berlin,Germany,Gas,50,0.18,9,3,Cold
+6,2024-01-06,H006,Paris,France,Electricity,28,0.24,6.72,6,Rain
+7,2024-01-07,H001,New York,USA,Gas,45,0.16,7.2,4,Cold
+8,2024-01-08,H002,Chicago,USA,Electricity,32,0.21,6.72,1,Snow
+9,2024-01-09,H003,London,UK,Gas,38,0.17,6.46,8,Cloudy
+10,2024-01-10,H004,Tokyo,Japan,Electricity,36,0.22,7.92,11,Clear
+11,2024-01-11,H005,Berlin,Germany,Electricity,27,0.23,6.21,2,Cold
+12,2024-01-12,H006,Paris,France,Gas,42,0.15,6.3,5,Rain
+13,2024-01-13,H001,New York,USA,Electricity,31,0.2,6.2,3,Cold
+14,2024-01-14,H002,Chicago,USA,Gas,47,0.16,7.52,0,Snow
+15,2024-01-15,H003,London,UK,Electricity,26,0.25,6.5,6,Cloudy
+16,2024-01-16,H004,Tokyo,Japan,Gas,44,0.18,7.92,12,Clear
+17,2024-01-17,H005,Berlin,Germany,Electricity,29,0.23,6.67,1,Cold
+18,2024-01-18,H006,Paris,France,Electricity,33,0.24,7.92,7,Rain
+19,2024-01-19,H001,New York,USA,Gas,46,0.16,7.36,2,Cold
+20,2024-01-20,H002,Chicago,USA,Electricity,34,0.21,7.14,0,Snow
+21,2024-01-21,H003,London,UK,Gas,39,0.17,6.63,9,Cloudy
+22,2024-01-22,H004,Tokyo,Japan,Electricity,37,0.22,8.14,13,Clear
+23,2024-01-23,H005,Berlin,Germany,Gas,48,0.18,8.64,2,Cold
+24,2024-01-24,H006,Paris,France,Electricity,30,0.24,7.2,6,Rain
+25,2024-01-25,H001,New York,USA,Electricity,32,0.2,6.4,3,Cold
+26,2024-01-26,H002,Chicago,USA,Gas,49,0.16,7.84,1,Snow
+27,2024-01-27,H003,London,UK,Electricity,28,0.25,7,8,Cloudy
+28,2024-01-28,H004,Tokyo,Japan,Gas,45,0.18,8.1,11,Clear
+29,2024-01-29,H005,Berlin,Germany,Electricity,30,0.23,6.9,2,Cold
+30,2024-01-30,H006,Paris,France,Gas,43,0.15,6.45,5,Rain
+31,2024-02-01,H001,New York,USA,Electricity,33,0.2,6.6,4,Cold
+32,2024-02-02,H002,Chicago,USA,Gas,50,0.16,8,0,Snow
+33,2024-02-03,H003,London,UK,Electricity,27,0.25,6.75,7,Cloudy
+34,2024-02-04,H004,Tokyo,Japan,Electricity,38,0.22,8.36,12,Clear
+35,2024-02-05,H005,Berlin,Germany,Gas,47,0.18,8.46,1,Cold
+36,2024-02-06,H006,Paris,France,Electricity,31,0.24,7.44,6,Rain

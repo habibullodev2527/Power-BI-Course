@@ -1,0 +1,28 @@
+VisitID,Date,PatientID,Department,Cost,City
+1,2024-01-01,P001,Cardiology,500,New York
+2,2024-01-02,P002,Dermatology,150,Chicago
+3,2024-01-03,P003,Neurology,300,London
+4,2024-01-04,P004,Cardiology,400,Tokyo
+5,2024-01-05,P005,Orthopedics,700,Berlin
+6,2024-01-06,P006,Cardiology,550,Paris
+7,2024-01-07,P001,Neurology,250,New York
+8,2024-01-08,P002,Dermatology,180,Chicago
+9,2024-01-09,P003,Orthopedics,600,London
+10,2024-01-10,P004,Cardiology,450,Tokyo
+11,2024-01-11,P005,Neurology,320,Berlin
+12,2024-01-12,P006,Dermatology,200,Paris
+13,2024-01-13,P001,Orthopedics,750,New York
+14,2024-01-14,P002,Cardiology,480,Chicago
+15,2024-01-15,P003,Neurology,350,London
+16,2024-01-16,P004,Dermatology,220,Tokyo
+17,2024-01-17,P005,Cardiology,520,Berlin
+18,2024-01-18,P006,Orthopedics,680,Paris
+19,2024-01-19,P001,Dermatology,190,New York
+20,2024-01-20,P002,Neurology,330,Chicago
+21,2024-01-21,P003,Cardiology,510,London
+22,2024-01-22,P004,Orthopedics,720,Tokyo
+23,2024-01-23,P005,Dermatology,210,Berlin
+24,2024-01-24,P006,Neurology,340,Paris
+25,2024-01-25,P001,Cardiology,530,New York
+26,2024-01-26,P002,Orthopedics,710,Chicago
+27,2024-01-27,P003,Dermatology,230,London

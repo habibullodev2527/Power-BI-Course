@@ -1,0 +1,8 @@
+ID,Name,Sales
+1,Ali,3000
+2,Vali,2000
+3,Abror,500
+4,Jasur,7000
+5,Malika,800
+6,Abbos,1000
+7,Hasan,1200

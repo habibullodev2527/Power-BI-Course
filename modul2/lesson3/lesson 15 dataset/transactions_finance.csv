@@ -1,0 +1,101 @@
+transaction_id,account_id,transaction_date,amount,transaction_type,category,channel,merchant,city,is_fraud,balance_after,payment_method
+1,38,2026-01-16,3464.0,Debit,Investment,Mobile App,Taylor Inc,Namangan,1,27980.35,Card
+2,40,2025-08-13,4966.57,Credit,Salary,Bank Branch,Alvarez-Middleton,Tashkent,0,27538.25,Transfer
+3,35,2026-02-09,4840.86,Debit,Food,Online,Hughes LLC,Samarkand,0,34888.34,Card
+4,47,2025-08-20,3739.96,Debit,Shopping,Mobile App,"Ruiz, Perry and Brooks",Tashkent,0,13883.02,Cash
+5,1,2026-04-10,1976.46,Credit,Food,Bank Branch,"Braun, Harris and Walker",Namangan,0,43630.97,Cash
+6,16,2025-09-02,1726.36,Debit,Utilities,ATM,"Barrett, Sims and Jacobs",Bukhara,0,50346.65,Card
+7,92,2025-09-17,4700.01,Credit,Salary,Mobile App,Blake-Hudson,Bukhara,0,3898.64,Cash
+8,47,2026-02-27,4993.97,Credit,Food,Mobile App,Castaneda-Williams,Tashkent,0,6102.59,Transfer
+9,32,2025-09-25,1435.26,Credit,Utilities,Bank Branch,Richards Group,Andijan,0,11390.94,Cash
+10,4,2025-12-18,3927.86,Debit,Investment,Bank Branch,Jackson Group,Andijan,0,43174.35,Card
+11,58,2025-11-05,4667.99,Debit,Transport,Online,Jones Inc,Fergana,0,29134.5,Transfer
+12,54,2026-02-09,645.28,Debit,Utilities,Mobile App,"Carlson, Pierce and Martinez",Bukhara,0,44341.95,Transfer
+13,39,2025-09-29,1308.24,Credit,Food,Bank Branch,Johnson Ltd,Tashkent,0,38592.3,Card
+14,71,2025-06-16,1047.28,Debit,Shopping,Bank Branch,"Cunningham, Welch and Romero",Bukhara,1,25645.38,Transfer
+15,23,2026-04-29,970.11,Credit,Utilities,ATM,Arroyo-Hudson,Bukhara,0,22098.32,Transfer
+16,96,2025-11-07,1018.69,Credit,Food,Bank Branch,"Gutierrez, Grant and Garcia",Namangan,0,22611.95,Cash
+17,36,2025-06-13,3763.03,Debit,Transport,Mobile App,Ellis Group,Samarkand,0,5555.89,Card
+18,56,2025-12-25,1928.96,Debit,Utilities,ATM,"Day, Thompson and King",Samarkand,0,25511.99,Cash
+19,1,2025-08-06,4841.72,Debit,Salary,Bank Branch,Nicholson-Hardy,Andijan,1,58334.47,Card
+20,20,2025-07-25,3917.7,Credit,Shopping,ATM,Cole-Wall,Fergana,1,5100.2,Card
+21,30,2026-04-26,16.82,Credit,Transport,ATM,Benson Ltd,Fergana,0,57746.09,Transfer
+22,90,2026-03-20,1266.45,Debit,Salary,ATM,Schultz-Baker,Tashkent,0,31466.2,Transfer
+23,29,2025-09-01,966.59,Debit,Transport,ATM,"Martinez, Roberts and Weaver",Tashkent,0,59782.44,Cash
+24,61,2025-05-04,4795.11,Credit,Transport,Online,Morrison PLC,Andijan,0,1756.85,Cash
+25,8,2025-07-20,3526.22,Debit,Salary,Online,Larson-Brown,Namangan,1,4865.52,Card
+26,30,2025-07-16,3340.1,Debit,Food,ATM,Scott Group,Fergana,0,43099.93,Cash
+27,1,2025-09-29,3416.01,Credit,Utilities,ATM,Rodriguez-Baker,Samarkand,1,58191.52,Cash
+28,30,2026-03-17,3831.63,Credit,Food,Online,Dickerson LLC,Bukhara,0,6540.48,Transfer
+29,29,2025-07-18,2483.87,Credit,Food,Bank Branch,Jenkins Inc,Fergana,0,56925.68,Card
+30,28,2025-07-16,4610.4,Credit,Salary,Online,Newton Group,Namangan,0,42591.52,Card
+31,94,2025-09-04,1972.68,Debit,Salary,ATM,Ford-Logan,Samarkand,0,11441.01,Transfer
+32,5,2025-08-17,4680.05,Debit,Utilities,Bank Branch,Hodge LLC,Bukhara,0,26546.11,Card
+33,11,2025-07-15,24.32,Debit,Utilities,Bank Branch,Jones Group,Tashkent,0,22807.78,Cash
+34,12,2025-06-10,4111.82,Debit,Salary,Bank Branch,Jones Group,Samarkand,0,32491.74,Cash
+35,95,2026-04-25,973.2,Debit,Food,ATM,Jones and Sons,Fergana,1,14880.78,Transfer
+36,49,2026-03-14,3835.67,Credit,Salary,Bank Branch,"Herrera, Thomas and Tapia",Tashkent,0,15420.96,Transfer
+37,47,2025-12-11,323.63,Debit,Utilities,Mobile App,Brown Ltd,Andijan,0,15730.35,Transfer
+38,39,2025-08-13,3450.99,Debit,Salary,ATM,"Martin, Garcia and Wolfe",Tashkent,0,6435.68,Transfer
+39,33,2025-10-22,4784.32,Debit,Food,Bank Branch,Johnson Ltd,Samarkand,1,10976.35,Transfer
+40,78,2025-12-05,1523.54,Credit,Shopping,Mobile App,Santos-Jackson,Bukhara,1,21711.51,Transfer
+41,51,2025-08-15,404.28,Credit,Shopping,Online,"Anderson, Cantu and Suarez",Namangan,0,38972.76,Cash
+42,21,2025-07-11,2767.45,Debit,Food,ATM,Swanson Inc,Tashkent,0,37476.09,Card
+43,91,2026-03-24,491.15,Debit,Food,Online,Price-House,Samarkand,0,25010.44,Transfer
+44,96,2025-12-17,4457.4,Credit,Transport,ATM,Wade-Freeman,Bukhara,0,16763.81,Cash
+45,26,2026-04-26,1871.13,Debit,Food,Online,Palmer Group,Samarkand,0,14130.24,Cash
+46,42,2025-09-22,4422.0,Credit,Salary,Bank Branch,King and Sons,Bukhara,0,30439.47,Card
+47,84,2025-08-21,3251.71,Credit,Food,ATM,"White, King and Hall",Tashkent,0,28485.77,Card
+48,6,2025-08-29,4204.38,Debit,Utilities,Online,Mcdowell LLC,Tashkent,0,11374.39,Transfer
+49,48,2026-04-01,978.87,Credit,Transport,Online,Tran Ltd,Namangan,0,46499.89,Transfer
+50,82,2025-12-22,4729.05,Credit,Transport,Mobile App,"Ramsey, Mckinney and Gomez",Samarkand,0,22122.51,Card
+51,5,2025-11-30,230.39,Debit,Transport,Online,Watts Ltd,Tashkent,0,24539.69,Cash
+52,10,2025-09-22,933.87,Debit,Shopping,ATM,Nguyen and Sons,Namangan,1,3796.26,Card
+53,82,2025-11-05,3981.26,Credit,Transport,ATM,Smith-Morales,Fergana,0,23866.33,Cash
+54,86,2025-09-26,2054.85,Debit,Utilities,Bank Branch,Scott LLC,Tashkent,0,44720.25,Cash
+55,99,2025-12-12,2076.26,Credit,Utilities,Online,Cook Ltd,Namangan,1,12220.03,Card
+56,55,2026-02-12,2176.48,Credit,Salary,ATM,"Nelson, Dixon and Peterson",Namangan,0,27654.37,Card
+57,71,2025-05-07,658.58,Credit,Shopping,Bank Branch,Simpson-Chang,Tashkent,0,44234.94,Card
+58,21,2026-01-14,737.98,Debit,Transport,Online,Collins-Mcdonald,Tashkent,0,23024.09,Card
+59,62,2025-11-18,1515.06,Credit,Utilities,ATM,"Thomas, Crane and Gutierrez",Andijan,1,5177.67,Transfer
+60,82,2025-08-26,3105.51,Credit,Shopping,Bank Branch,Burnett LLC,Andijan,0,49751.26,Card
+61,52,2025-07-02,2831.48,Credit,Transport,Online,Brady PLC,Namangan,0,7383.4,Card
+62,6,2025-12-10,4853.75,Credit,Transport,ATM,Hurst Ltd,Fergana,0,7063.86,Transfer
+63,84,2025-05-25,2284.11,Debit,Food,Mobile App,Nguyen and Sons,Andijan,0,25544.39,Transfer
+64,23,2025-07-11,1843.58,Debit,Salary,ATM,"Colon, Woodward and Scott",Andijan,1,27916.39,Cash
+65,23,2025-06-14,3820.19,Debit,Food,Bank Branch,"Shelton, Warner and Wood",Tashkent,0,7707.35,Cash
+66,65,2025-05-24,1833.01,Debit,Transport,ATM,Russell-White,Tashkent,0,4934.46,Transfer
+67,7,2026-03-25,1575.49,Credit,Transport,Bank Branch,Patton-Walker,Fergana,0,1551.39,Card
+68,25,2025-05-06,4980.66,Credit,Shopping,Bank Branch,Davis-Miller,Bukhara,0,41168.04,Transfer
+69,45,2025-12-02,4653.61,Credit,Transport,Mobile App,"Stewart, Hall and Hendrix",Samarkand,0,53792.23,Cash
+70,19,2025-11-06,4526.26,Debit,Utilities,Bank Branch,Padilla PLC,Samarkand,0,36951.97,Card
+71,26,2025-08-17,1602.2,Credit,Shopping,Bank Branch,Price-Richardson,Samarkand,0,40780.8,Cash
+72,15,2025-09-10,852.02,Debit,Transport,ATM,"Carter, Marquez and Costa",Fergana,0,57969.3,Cash
+73,33,2026-03-26,2780.35,Credit,Transport,Bank Branch,Ross-Snow,Fergana,0,15885.25,Cash
+74,43,2025-09-05,2891.03,Debit,Salary,Bank Branch,Hill-Davis,Samarkand,0,36922.42,Card
+75,40,2026-03-17,1488.95,Debit,Investment,Mobile App,Dennis-Jones,Fergana,0,44827.19,Card
+76,54,2026-04-25,755.33,Debit,Transport,Mobile App,Jordan Group,Tashkent,0,29303.67,Transfer
+77,7,2025-12-13,3269.01,Credit,Salary,Mobile App,"Bennett, Ross and Jones",Bukhara,0,31385.33,Transfer
+78,76,2025-09-15,1129.05,Debit,Shopping,Online,"Rodriguez, King and Reyes",Bukhara,1,9517.41,Card
+79,91,2025-10-06,4683.59,Credit,Shopping,Bank Branch,Williams and Sons,Tashkent,0,38292.61,Transfer
+80,34,2026-02-22,3912.96,Debit,Salary,ATM,"Newman, Kaufman and Perry",Fergana,0,35683.46,Transfer
+81,32,2025-05-04,2224.33,Debit,Shopping,ATM,"Leon, Allen and Mitchell",Tashkent,0,31891.64,Cash
+82,8,2025-12-15,936.43,Credit,Salary,ATM,Wolf Group,Andijan,0,8535.99,Card
+83,79,2026-04-29,2596.11,Debit,Shopping,Mobile App,"Ramirez, Jacobs and Davis",Tashkent,0,37557.83,Transfer
+84,49,2026-04-18,3917.04,Credit,Food,Bank Branch,Wilson and Sons,Tashkent,1,10523.5,Card
+85,16,2025-11-24,1314.52,Credit,Utilities,Mobile App,"Huff, Anderson and Lewis",Fergana,0,15959.26,Transfer
+86,38,2026-01-25,3399.38,Debit,Investment,Online,"Blackburn, Shaw and Stuart",Tashkent,0,10186.17,Card
+87,21,2025-12-08,4210.2,Credit,Investment,Mobile App,Fowler Ltd,Samarkand,1,19713.22,Card
+88,61,2025-06-25,1903.45,Debit,Transport,ATM,Roth-Williams,Tashkent,1,57341.79,Card
+89,28,2026-04-01,2856.0,Debit,Food,ATM,"Brown, Martin and Torres",Andijan,0,8675.69,Card
+90,45,2025-11-30,568.35,Credit,Shopping,ATM,Williams-Stephenson,Tashkent,0,8304.13,Transfer
+91,95,2025-12-08,3173.05,Credit,Salary,ATM,Jones and Sons,Andijan,0,11958.73,Transfer
+92,97,2026-02-06,4457.49,Credit,Investment,Bank Branch,Bray PLC,Tashkent,0,12343.4,Card
+93,97,2025-08-15,178.96,Credit,Investment,Mobile App,Johnson-Bowen,Namangan,0,7959.22,Transfer
+94,44,2026-02-19,1032.92,Debit,Food,Mobile App,"Sims, Lewis and Barnes",Tashkent,0,15402.14,Cash
+95,42,2025-08-03,251.56,Debit,Transport,Bank Branch,Proctor LLC,Bukhara,0,47343.35,Card
+96,45,2025-12-10,2187.88,Credit,Food,ATM,Jones-Coleman,Andijan,0,42863.4,Card
+97,22,2026-01-18,2876.96,Debit,Food,ATM,Lopez-Shaffer,Andijan,0,17300.08,Card
+98,13,2025-10-22,31.76,Debit,Food,Online,"Jones, Barton and Stewart",Namangan,0,57432.4,Transfer
+99,37,2025-10-12,1310.27,Credit,Shopping,Online,"Mccarthy, Thomas and Archer",Namangan,0,6595.39,Transfer
+100,90,2025-12-28,3836.38,Debit,Transport,ATM,"Rose, Oconnor and Smith",Fergana,0,21337.02,Cash

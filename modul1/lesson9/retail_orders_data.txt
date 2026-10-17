@@ -1,0 +1,58 @@
+OrderID,OrderDate,CustomerID,CustomerName,City,Country,ProductName,Category,Quantity,UnitPrice,OrderAmount,PaymentMethod
+1,2024-01-01,C001,Ali Khan,New York,USA,Coke,Beverages,5,2,10,Card
+2,2024-01-02,C002,Sara Ali,Chicago,USA,Pepsi,Beverages,3,2,6,Cash
+3,2024-01-03,C003,John Smith,London,UK,Bread,Food,4,3,12,Card
+4,2024-01-04,C004,Aya Nakamura,Tokyo,Japan,Milk,Dairy,2,4,8,Online
+5,2024-01-05,C005,Anna Muller,Berlin,Germany,Chips,Snacks,6,2,12,Card
+6,2024-01-06,C006,Jean Dupont,Paris,France,Juice,Beverages,3,3,9,Online
+7,2024-01-07,C001,Ali Khan,New York,USA,Biscuits,Snacks,5,2,10,Card
+8,2024-01-08,C002,Sara Ali,Chicago,USA,Coffee,Beverages,2,5,10,Cash
+9,2024-01-09,C003,John Smith,London,UK,Cheese,Dairy,3,6,18,Card
+10,2024-01-10,C004,Aya Nakamura,Tokyo,Japan,Bread,Food,2,3,6,Online
+11,2024-01-11,C005,Anna Muller,Berlin,Germany,Coke,Beverages,4,2,8,Card
+12,2024-01-12,C006,Jean Dupont,Paris,France,Milk,Dairy,3,4,12,Cash
+13,2024-01-13,C001,Ali Khan,New York,USA,Chips,Snacks,7,2,14,Card
+14,2024-01-14,C002,Sara Ali,Chicago,USA,Juice,Beverages,3,3,9,Online
+15,2024-01-15,C003,John Smith,London,UK,Bread,Food,5,3,15,Card
+16,2024-01-16,C004,Aya Nakamura,Tokyo,Japan,Cheese,Dairy,2,6,12,Cash
+17,2024-01-17,C005,Anna Muller,Berlin,Germany,Biscuits,Snacks,6,2,12,Online
+18,2024-01-18,C006,Jean Dupont,Paris,France,Coffee,Beverages,4,5,20,Card
+19,2024-01-19,C001,Ali Khan,New York,USA,Milk,Dairy,3,4,12,Cash
+20,2024-01-20,C002,Sara Ali,Chicago,USA,Chips,Snacks,5,2,10,Card
+21,2024-01-21,C003,John Smith,London,UK,Coke,Beverages,6,2,12,Online
+22,2024-01-22,C004,Aya Nakamura,Tokyo,Japan,Bread,Food,3,3,9,Card
+23,2024-01-23,C005,Anna Muller,Berlin,Germany,Juice,Beverages,4,3,12,Cash
+24,2024-01-24,C006,Jean Dupont,Paris,France,Cheese,Dairy,2,6,12,Online
+25,2024-01-25,C001,Ali Khan,New York,USA,Coffee,Beverages,3,5,15,Card
+26,2024-01-26,C002,Sara Ali,Chicago,USA,Biscuits,Snacks,4,2,8,Cash
+27,2024-01-27,C003,John Smith,London,UK,Milk,Dairy,3,4,12,Online
+28,2024-01-28,C004,Aya Nakamura,Tokyo,Japan,Chips,Snacks,5,2,10,Card
+29,2024-01-29,C005,Anna Muller,Berlin,Germany,Bread,Food,4,3,12,Cash
+30,2024-01-30,C006,Jean Dupont,Paris,France,Coke,Beverages,6,2,12,Online
+31,2024-02-01,C001,Ali Khan,New York,USA,Juice,Beverages,3,3,9,Card
+32,2024-02-02,C002,Sara Ali,Chicago,USA,Cheese,Dairy,2,6,12,Cash
+33,2024-02-03,C003,John Smith,London,UK,Coffee,Beverages,4,5,20,Online
+34,2024-02-04,C004,Aya Nakamura,Tokyo,Japan,Milk,Dairy,3,4,12,Card
+35,2024-02-05,C005,Anna Muller,Berlin,Germany,Biscuits,Snacks,6,2,12,Cash
+36,2024-02-06,C006,Jean Dupont,Paris,France,Bread,Food,5,3,15,Online
+40,2024-02-10,C004,Aya Nakamura,Tokyo,Japan,Coke,Beverages,5,2,10,Online
+41,2024-02-11,C005,Anna Muller,Berlin,Germany,Milk,Dairy,3,4,12,Card
+42,2024-02-12,C006,Jean Dupont,Paris,France,Biscuits,Snacks,6,2,12,Cash
+43,2024-02-13,C001,Ali Khan,New York,USA,Juice,Beverages,4,3,12,Online
+44,2024-02-14,C002,Sara Ali,Chicago,USA,Cheese,Dairy,2,6,12,Card
+45,2024-02-15,C003,John Smith,London,UK,Coffee,Beverages,5,5,25,Cash
+46,2024-02-16,C004,Aya Nakamura,Tokyo,Japan,Bread,Food,3,3,9,Online
+47,2024-02-17,C005,Anna Muller,Berlin,Germany,Chips,Snacks,7,2,14,Card
+48,2024-02-18,C006,Jean Dupont,Paris,France,Coke,Beverages,6,2,12,Cash
+49,2024-02-19,C001,Ali Khan,New York,USA,Milk,Dairy,4,4,16,Online
+50,2024-02-20,C002,Sara Ali,Chicago,USA,Biscuits,Snacks,5,2,10,Card
+51,2024-02-21,C003,John Smith,London,UK,Juice,Beverages,3,3,9,Cash
+52,2024-02-22,C004,Aya Nakamura,Tokyo,Japan,Cheese,Dairy,2,6,12,Online
+53,2024-02-23,C005,Anna Muller,Berlin,Germany,Coffee,Beverages,4,5,20,Card
+54,2024-02-24,C006,Jean Dupont,Paris,France,Bread,Food,6,3,18,Cash
+55,2024-02-25,C001,Ali Khan,New York,USA,Chips,Snacks,8,2,16,Online
+56,2024-02-26,C002,Sara Ali,Chicago,USA,Milk,Dairy,3,4,12,Card
+57,2024-02-27,C003,John Smith,London,UK,Biscuits,Snacks,6,2,12,Cash
+58,2024-02-28,C004,Aya Nakamura,Tokyo,Japan,Coke,Beverages,5,2,10,Online
+59,2024-02-29,C005,Anna Muller,Berlin,Germany,Juice,Beverages,4,3,12,Card
+60,2024-03-01,C006,Jean Dupont,Paris,France,Cheese,Dairy,3,6,18,Cash

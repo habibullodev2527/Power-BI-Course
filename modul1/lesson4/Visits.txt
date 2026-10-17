@@ -1,0 +1,31 @@
+VisitID,VisitDate,PatientID,DoctorID,Department,Diagnosis,TreatmentCost,PaymentType,HospitalBranch
+V001,2024-01-01,P001,D001,Cardiology,Heart Disease,500,Insurance,Central
+V002,2024-01-02,P002,D002,Dermatology,Skin Allergy,150,Cash,West
+V003,2024-01-03,P003,D003,Neurology,Migraine,300,Insurance,Central
+V004,2024-01-04,P004,D001,Cardiology,Hypertension,400,Insurance,East
+V005,2024-01-05,P005,D004,Orthopedics,Fracture,700,Cash,Central
+V006,2024-01-06,P006,D002,Dermatology,Acne,120,Cash,West
+V007,2024-01-07,P001,D003,Neurology,Headache,200,Insurance,Central
+V008,2024-01-08,P002,D001,Cardiology,Heart Checkup,350,Cash,East
+V009,2024-01-09,P004,D004,Orthopedics,Joint Pain,450,Insurance,Central
+V010,2024-01-10,P005,D002,Dermatology,Rash,180,Cash,West
+V011,2024-01-11,P006,D003,Neurology,Seizure,600,Insurance,Central
+V012,2024-01-12,P001,D004,Orthopedics,Back Pain,300,Cash,East
+V013,2024-01-13,P002,D003,Neurology,Stress,220,Insurance,Central
+V014,2024-01-14,P003,D001,Cardiology,Arrhythmia,550,Insurance,Central
+V015,2024-01-15,P004,D002,Dermatology,Eczema,140,Cash,West
+V016,2024-01-16,P005,D003,Neurology,Vertigo,330,Insurance,Central
+V017,2024-01-17,P006,D001,Cardiology,Heart Pain,480,Insurance,East
+V018,2024-01-18,P001,D002,Dermatology,Infection,160,Cash,West
+V019,2024-01-19,P002,D004,Orthopedics,Knee Pain,500,Insurance,Central
+V020,2024-01-20,P003,D003,Neurology,Migraine,310,Insurance,Central
+V021,2024-01-21,P004,D001,Cardiology,Hypertension,420,Insurance,East
+V022,2024-01-22,P005,D002,Dermatology,Skin Allergy,170,Cash,West
+V023,2024-01-23,P006,D004,Orthopedics,Fracture,750,Insurance,Central
+V024,2024-01-24,P001,D003,Neurology,Headache,210,Insurance,Central
+V025,2024-01-25,P002,D001,Cardiology,Checkup,300,Cash,East
+V026,2024-01-26,P003,D002,Dermatology,Acne,130,Cash,West
+V027,2024-01-27,P004,D004,Orthopedics,Joint Pain,460,Insurance,Central
+V028,2024-01-28,P005,D003,Neurology,Stress,250,Insurance,Central
+V029,2024-01-29,P006,D001,Cardiology,Heart Disease,520,Insurance,East
+V030,2024-01-30,P001,D002,Dermatology,Rash,150,Cash,West

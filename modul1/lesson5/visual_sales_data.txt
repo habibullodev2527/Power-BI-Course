@@ -1,0 +1,61 @@
+OrderID,OrderDate,Country,City,CustomerName,Product,Category,Quantity,UnitPrice,SalesAmount,Profit,Region
+4001,2024-03-01,USA,New York,John Smith,Laptop,Electronics,2,900,1800,300,North America
+4002,2024-03-02,USA,Chicago,Alice Brown,Phone,Electronics,3,600,1800,250,North America
+4003,2024-03-03,UK,London,Michael Lee,Tablet,Electronics,1,400,400,80,Europe
+4004,2024-03-04,Japan,Osaka,Yuki Tanaka,Headphones,Accessories,5,80,400,90,Asia
+4005,2024-03-05,Germany,Berlin,Anna Muller,Keyboard,Accessories,4,50,200,50,Europe
+4006,2024-03-06,France,Paris,Jean Dupont,Mouse,Accessories,6,30,180,40,Europe
+4007,2024-03-07,USA,Miami,Chris Evans,Monitor,Electronics,2,300,600,120,North America
+4008,2024-03-08,UK,Manchester,Sarah Green,Laptop,Electronics,1,950,950,200,Europe
+4009,2024-03-09,Japan,Tokyo,Hiroshi Sato,Phone,Electronics,2,650,1300,220,Asia
+4010,2024-03-10,Germany,Hamburg,Peter Schmidt,Tablet,Electronics,3,420,1260,210,Europe
+4011,2024-03-11,France,Lyon,Marie Curie,Headphones,Accessories,4,85,340,70,Europe
+4012,2024-03-12,USA,Boston,Tom Hardy,Keyboard,Accessories,2,55,110,25,North America
+4013,2024-03-13,UK,Liverpool,Emma Watson,Mouse,Accessories,5,35,175,30,Europe
+4014,2024-03-14,Japan,Osaka,Kenta Suzuki,Monitor,Electronics,1,320,320,60,Asia
+4015,2024-03-15,Germany,Frankfurt,Lukas Weber,Laptop,Electronics,2,880,1760,300,Europe
+4016,2024-03-16,France,Marseille,Paul Martin,Phone,Electronics,3,610,1830,260,Europe
+4017,2024-03-17,USA,Seattle,Natasha Romanoff,Tablet,Electronics,1,410,410,90,North America
+4018,2024-03-18,UK,Leeds,Daniel Craig,Headphones,Accessories,6,75,450,100,Europe
+4019,2024-03-19,Japan,Nagoya,Aya Nakamura,Keyboard,Accessories,3,60,180,40,Asia
+4020,2024-03-20,Germany,Cologne,Max Mustermann,Mouse,Accessories,4,28,112,25,Europe
+4021,2024-03-21,France,Nice,Sophie Turner,Monitor,Electronics,2,310,620,130,Europe
+4022,2024-03-22,USA,Denver,Peter Parker,Laptop,Electronics,1,920,920,180,North America
+4023,2024-03-23,UK,Bristol,Benedict Cumberbatch,Phone,Electronics,2,640,1280,220,Europe
+4024,2024-03-24,Japan,Kobe,Rina Sawayama,Tablet,Electronics,3,430,1290,210,Asia
+4025,2024-03-25,Germany,Stuttgart,Thomas Muller,Headphones,Accessories,5,82,410,90,Europe
+4026,2024-03-26,France,Toulouse,Luc Besson,Keyboard,Accessories,2,58,116,25,Europe
+4027,2024-03-27,USA,Austin,Elon Musk,Mouse,Accessories,6,32,192,45,North America
+4028,2024-03-28,UK,Oxford,Stephen Hawking,Monitor,Electronics,1,330,330,70,Europe
+4029,2024-03-29,Japan,Kyoto,Haruki Murakami,Laptop,Electronics,2,910,1820,320,Asia
+4030,2024-03-30,Germany,Dresden,Angela Merkel,Phone,Electronics,3,620,1860,300,Europe
+4031,2024-03-31,France,Cannes,Marion Cotillard,Tablet,Electronics,1,415,415,80,Europe
+4032,2024-04-01,USA,San Diego,Robert Downey,Headphones,Accessories,4,78,312,60,North America
+4033,2024-04-02,UK,Sheffield,Ed Sheeran,Keyboard,Accessories,3,52,156,35,Europe
+4034,2024-04-03,Japan,Osaka,Naomi Osaka,Mouse,Accessories,5,33,165,40,Asia
+4035,2024-04-04,Germany,Bonn,Toni Kroos,Monitor,Electronics,2,315,630,120,Europe
+4036,2024-04-05,France,Paris,Zinedine Zidane,Laptop,Electronics,1,940,940,200,Europe
+4037,2024-04-06,USA,Las Vegas,Conor McGregor,Phone,Electronics,2,655,1310,230,North America
+4038,2024-04-07,UK,Cardiff,Gareth Bale,Tablet,Electronics,3,435,1305,220,Europe
+4039,2024-04-08,Japan,Tokyo,Shohei Ohtani,Headphones,Accessories,4,88,352,70,Asia
+4040,2024-04-09,Germany,Munich,Manuel Neuer,Keyboard,Accessories,2,57,114,25,Europe
+4041,2024-04-10,France,Lille,Kylian Mbappe,Mouse,Accessories,6,34,204,45,Europe
+4042,2024-04-11,USA,Houston,James Harden,Monitor,Electronics,1,340,340,70,North America
+4043,2024-04-12,UK,Leicester,Jamie Vardy,Laptop,Electronics,2,905,1810,310,Europe
+4044,2024-04-13,Japan,Yokohama,Kei Nishikori,Phone,Electronics,3,645,1935,300,Asia
+4045,2024-04-14,Germany,Berlin,Mesut Ozil,Tablet,Electronics,1,420,420,90,Europe
+4046,2024-04-15,France,Nantes,Antoine Griezmann,Headphones,Accessories,5,81,405,85,Europe
+4047,2024-04-16,USA,Orlando,LeBron James,Keyboard,Accessories,3,59,177,40,North America
+4048,2024-04-17,UK,Leeds,Harry Kane,Mouse,Accessories,4,36,144,35,Europe
+4049,2024-04-18,Japan,Sapporo,Takumi Minamino,Monitor,Electronics,2,325,650,130,Asia
+4050,2024-04-19,Germany,Frankfurt,Ilkay Gundogan,Laptop,Electronics,1,930,930,180,Europe
+4051,2024-04-20,France,Paris,Paul Pogba,Phone,Electronics,2,660,1320,240,Europe
+4052,2024-04-21,USA,Atlanta,Stephen Curry,Tablet,Electronics,3,440,1320,230,North America
+4053,2024-04-22,UK,London,David Beckham,Headphones,Accessories,4,90,360,80,Europe
+4054,2024-04-23,Japan,Osaka,Ichiro Suzuki,Keyboard,Accessories,2,62,124,30,Asia
+4055,2024-04-24,Germany,Hamburg,Thomas Tuchel,Mouse,Accessories,5,35,175,40,Europe
+4056,2024-04-25,France,Lyon,Thierry Henry,Monitor,Electronics,1,345,345,70,Europe
+4057,2024-04-26,USA,Chicago,Michael Jordan,Laptop,Electronics,2,910,1820,320,North America
+4058,2024-04-27,UK,Manchester,Wayne Rooney,Phone,Electronics,3,635,1905,300,Europe
+4059,2024-04-28,Japan,Tokyo,Honda Tsubasa,Tablet,Electronics,1,425,425,90,Asia
+4060,2024-04-29,Germany,Berlin,Dirk Nowitzki,Headphones,Accessories,4,87,348,70,Europe

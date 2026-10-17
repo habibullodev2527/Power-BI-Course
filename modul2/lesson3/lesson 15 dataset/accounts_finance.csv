@@ -1,0 +1,101 @@
+account_id,customer_name,age,city,account_type,open_date,balance,credit_score,income_level,account_status
+1,Cynthia Craig,38,Samarkand,Current,2021-11-23,32581.63,374,High,Active
+2,Christopher Rodriguez,41,Andijan,Savings,2024-07-04,45494.23,519,Low,Active
+3,Eric Greer,45,Namangan,Savings,2026-02-13,12109.08,734,Low,Blocked
+4,Keith Allen,25,Samarkand,Business,2024-03-30,31408.92,363,High,Blocked
+5,Deborah Flores,43,Tashkent,Savings,2023-05-11,2424.48,436,Medium,Inactive
+6,Tiffany Fleming,27,Andijan,Savings,2023-08-13,28588.59,485,Low,Blocked
+7,Mrs. Tanya Griffith DVM,54,Fergana,Savings,2024-04-02,18682.64,364,High,Active
+8,Melinda Murray,57,Samarkand,Current,2024-10-17,34051.96,737,Medium,Inactive
+9,Paul Castaneda,55,Namangan,Current,2021-12-06,15058.37,484,High,Active
+10,Christina Martinez,23,Andijan,Current,2024-01-23,26307.31,651,High,Inactive
+11,Matthew Patterson,36,Andijan,Savings,2022-03-29,5991.48,728,Low,Inactive
+12,Kaitlyn Herrera,27,Namangan,Current,2025-06-29,2056.44,379,High,Blocked
+13,Chad Beltran MD,68,Bukhara,Current,2023-11-13,34795.24,808,High,Inactive
+14,Jessica Hunter,22,Tashkent,Current,2023-03-24,23757.51,366,Low,Blocked
+15,Joseph Hicks,62,Bukhara,Business,2023-09-04,28939.52,756,Medium,Blocked
+16,Jerry Delgado,42,Fergana,Current,2025-02-01,1225.89,772,Medium,Active
+17,Rachel Brady,57,Tashkent,Current,2022-08-28,3041.83,594,Low,Blocked
+18,Tiffany Gallagher,33,Namangan,Current,2023-03-12,45849.13,808,Low,Active
+19,Katherine Ray,46,Namangan,Business,2021-08-16,13964.17,440,Medium,Blocked
+20,Richard Schultz,35,Fergana,Current,2025-08-24,49324.71,689,Low,Active
+21,Jodi Burke,23,Samarkand,Savings,2023-08-03,11674.65,538,Low,Inactive
+22,David Long,71,Andijan,Savings,2022-11-12,13211.06,304,Low,Inactive
+23,Pamela Garrett,52,Bukhara,Business,2025-09-15,28360.43,428,High,Blocked
+24,Lauren Andersen,57,Fergana,Business,2022-03-24,37015.26,767,High,Blocked
+25,Michele Porter,43,Namangan,Current,2022-04-21,19766.59,793,High,Inactive
+26,Jon Freeman,21,Samarkand,Savings,2022-03-30,49234.91,751,Low,Active
+27,Matthew Contreras,39,Andijan,Savings,2021-08-30,5208.74,454,High,Active
+28,Donna Vargas MD,41,Andijan,Savings,2024-06-02,3608.75,512,High,Inactive
+29,Melissa Johnson,27,Fergana,Current,2025-05-14,47777.85,672,Medium,Active
+30,Kyle Taylor,25,Namangan,Current,2022-11-08,24071.72,619,Low,Active
+31,Thomas Higgins,24,Fergana,Current,2025-12-01,37043.53,790,High,Active
+32,Sally Thompson,51,Tashkent,Savings,2021-11-22,47554.18,840,Medium,Active
+33,Denise Cannon,62,Andijan,Savings,2021-06-19,37931.33,605,High,Active
+34,Michael Payne,62,Bukhara,Business,2025-09-12,18398.32,471,Medium,Active
+35,Angela Green,52,Andijan,Business,2024-12-05,16550.28,528,High,Active
+36,Loretta Brown,69,Samarkand,Current,2023-07-14,37019.66,532,Low,Blocked
+37,Ryan Chavez MD,49,Bukhara,Business,2023-12-23,1546.11,328,Medium,Inactive
+38,Kimberly Berg,34,Samarkand,Business,2023-01-22,30296.44,652,Medium,Blocked
+39,Brenda Taylor,40,Bukhara,Savings,2023-12-05,11101.07,532,Medium,Active
+40,John Hughes,39,Samarkand,Current,2023-08-08,31240.91,301,Medium,Blocked
+41,Dawn Avery,40,Fergana,Savings,2026-03-02,41748.98,422,Medium,Blocked
+42,Karen Johnson,66,Samarkand,Current,2022-08-13,44461.65,744,High,Inactive
+43,Amy Joyce,23,Fergana,Current,2024-04-22,23211.71,386,High,Active
+44,William Le,28,Samarkand,Savings,2022-10-07,7642.42,776,High,Active
+45,Joseph Griffith,57,Andijan,Current,2024-04-12,32897.69,658,Low,Blocked
+46,Andrea Kennedy,53,Samarkand,Savings,2023-01-05,810.72,405,High,Blocked
+47,Lauren Kirby,26,Namangan,Savings,2023-06-07,41325.15,516,Low,Inactive
+48,Teresa Reese,31,Bukhara,Business,2025-10-09,12102.92,633,Medium,Blocked
+49,Christine Moss,44,Samarkand,Savings,2021-08-27,45509.85,662,Medium,Blocked
+50,Jesse Gibson,55,Andijan,Current,2021-08-29,41374.27,813,Low,Blocked
+51,Monica Smith,27,Andijan,Business,2023-05-26,1033.37,750,Low,Blocked
+52,Renee Scott,18,Samarkand,Savings,2024-11-30,7163.79,423,High,Active
+53,Daniel Greene,38,Fergana,Business,2021-05-11,26583.25,794,Low,Blocked
+54,Erik Chapman,21,Samarkand,Savings,2024-11-18,13918.16,400,High,Inactive
+55,Toni Lee,53,Tashkent,Savings,2025-05-22,22218.09,817,High,Blocked
+56,Richard Harris,30,Fergana,Current,2021-10-11,22672.06,846,Medium,Blocked
+57,Nathan Shannon,33,Fergana,Business,2025-06-02,43839.12,565,High,Active
+58,Kevin Maynard,71,Namangan,Savings,2024-05-03,20890.19,701,Medium,Inactive
+59,Brittany Harvey,22,Fergana,Savings,2024-09-26,21474.1,517,High,Inactive
+60,Mr. Jacob Lane,68,Tashkent,Savings,2022-11-26,46981.28,674,Low,Inactive
+61,Casey Smith,74,Samarkand,Current,2022-03-13,11057.43,396,Medium,Inactive
+62,Samantha Daniel,28,Fergana,Savings,2024-06-17,8157.16,741,High,Inactive
+63,Kimberly Contreras,39,Namangan,Savings,2022-11-23,17895.08,394,High,Inactive
+64,Patricia Mendoza,19,Bukhara,Business,2025-12-21,22987.67,318,Medium,Inactive
+65,Danny Mason,51,Andijan,Current,2021-10-11,25661.89,365,Low,Active
+66,Joseph Haley,74,Tashkent,Savings,2025-10-06,13351.66,340,Low,Inactive
+67,Michelle Cantu,66,Samarkand,Current,2022-03-08,42494.43,564,Medium,Active
+68,Maria Neal,52,Andijan,Business,2023-11-15,24781.14,634,Low,Inactive
+69,Heather Armstrong,21,Fergana,Savings,2022-12-23,21323.32,374,Medium,Active
+70,Mr. Christopher Bennett,58,Tashkent,Current,2022-10-08,4278.75,527,Low,Inactive
+71,Thomas Smith,73,Tashkent,Current,2024-09-22,676.16,727,Medium,Blocked
+72,Geoffrey Joseph,26,Tashkent,Business,2024-08-09,35505.88,412,Low,Inactive
+73,Robin Watson,21,Samarkand,Savings,2022-06-19,46619.12,612,High,Active
+74,Cheryl Jackson,36,Namangan,Business,2021-09-23,33640.64,577,Medium,Active
+75,Ashley Bell,34,Tashkent,Savings,2023-01-16,1019.85,817,High,Active
+76,Rickey Harrell,50,Namangan,Savings,2025-01-14,46738.68,408,High,Blocked
+77,Michael Wilson,45,Fergana,Current,2023-12-01,27340.72,702,High,Inactive
+78,Danny Smith,62,Samarkand,Savings,2022-04-10,17200.96,443,Medium,Inactive
+79,Stacey Lam,21,Samarkand,Savings,2025-01-15,3629.07,561,Medium,Active
+80,Richard Murphy,21,Tashkent,Business,2025-02-08,42079.32,818,High,Inactive
+81,Cheryl Goodman,56,Samarkand,Business,2022-07-19,14723.62,770,Low,Active
+82,Vincent Jones II,35,Namangan,Savings,2024-03-09,13235.83,636,High,Inactive
+83,Peter Ortiz,33,Tashkent,Current,2026-03-21,10971.51,487,Low,Inactive
+84,Catherine Cortez,42,Tashkent,Current,2023-04-10,14018.55,505,Low,Blocked
+85,Lisa Wilson,67,Tashkent,Savings,2022-11-01,13282.02,391,Low,Inactive
+86,Erica Johnson,55,Tashkent,Current,2024-02-28,1222.46,611,High,Active
+87,Keith Jones,23,Andijan,Business,2024-12-07,42677.05,458,High,Blocked
+88,Melanie Jones,68,Andijan,Current,2024-01-24,38239.14,806,Low,Inactive
+89,Cynthia Garcia,64,Andijan,Business,2023-01-21,7323.14,825,High,Inactive
+90,Sharon Johnson,64,Fergana,Business,2023-08-09,7051.45,836,High,Blocked
+91,David Mendoza,71,Tashkent,Business,2024-03-17,29244.67,535,Low,Active
+92,Thomas Nunez,20,Samarkand,Business,2022-11-22,18099.3,407,Medium,Inactive
+93,Alexander Whitney,53,Tashkent,Business,2021-10-20,1040.15,844,High,Active
+94,Christopher Cunningham DDS,49,Bukhara,Savings,2025-06-18,22901.73,371,High,Blocked
+95,Matthew Mckinney,75,Andijan,Savings,2024-08-16,32999.04,367,High,Blocked
+96,Susan Case,48,Bukhara,Savings,2024-11-17,42322.07,540,High,Active
+97,Michael Taylor,32,Fergana,Business,2021-10-16,48789.18,805,Medium,Active
+98,Sara Manning,48,Fergana,Current,2025-05-20,38371.81,503,Low,Blocked
+99,Phillip Quinn,27,Bukhara,Current,2023-02-15,32611.56,611,High,Blocked
+100,Colleen Ruiz,26,Tashkent,Current,2025-04-29,3126.98,575,High,Active

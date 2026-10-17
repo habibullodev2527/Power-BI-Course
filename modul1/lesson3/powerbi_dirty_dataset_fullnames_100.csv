@@ -1,0 +1,101 @@
+CustomerID,Name,Age,Email,PurchaseAmount,PurchaseDate,Region
+1001,eva martin,70,henry@example.com ,800.5,2023-01-01,East 
+1002,mary jones,sixty,betty@mail.com,200,2023-01-08,south
+1003, Mark Anderson,Thirty-five,helen@,350,2023-01-15,
+1004,Charlie Anderson ,60,helen@,NaN,2023-01-22,N/A
+1005,Helen Jones,Twenty-two,mark@@mail.com,300,2023-01-29,
+1006,CHRISTOPHER GARCIA,60,frank@mail.com,one hundred,2023-02-05,East
+1007,D@niel Thomas,Thirty-five,robert.com,410,2023-02-12,N/A
+1008, Frank Johnson,60,paul@mail,800.5,2023-02-19,WEST
+1009, Mary Martin,29,barbara@mail.com,430,2023-02-26,WEST
+1010,J@ckson Davis,Twenty-two,frank@mail.com,650,2023-03-05,East 
+1011,HENRY WILLIAMS,25,nancy @mail.com,NaN,2023-03-12,south
+1012,Bob Jones, ,lucas@@mail.com,300.25,2023-03-19,
+1013,James Williams,sixty,patricia@,600,2023-03-26,N/A
+1014,David Williams ,Twenty-two,ivy.com,700.6,2023-04-02,North
+1015,Thomas Thompson ,25,helen@,500.00,2023-04-09,East
+1016,sophia anderson,29,nancy @mail.com,285,2023-04-16,
+1017,Thom@s Davis,25,linda@mail.com,450.75,2023-04-23,South
+1018,N@ncy Davis,50,linda@mail.com,one hundred,2023-04-30,
+1019,Patricia Jones,29,michael@mail,1000,2023-05-07,West
+1020,Kevin Thompson,50,barbara@mail.com,NaN,2023-05-14,East
+1021,Fr@nk Smith,25,sophia@mail.com,1200,2023-05-21,North
+1022,charlie thomas,35,henry@example.com ,800.00,2023-05-28,south
+1023,James Williams,50,charlie@,NaN,2023-06-04,
+1024,Paul Thomas ,sixty,daniel@mail.com,-150,2023-06-11,south
+1025,Robert Jones ,30,michael@mail,900,2023-06-18,
+1026,Betty M@rtin,sixty,linda@mail.com,400.75,2023-06-25,
+1027,betty brown,30,daniel@mail.com,285,2023-07-02,N/A
+1028,Kevin M@rtinez,40,mark@@mail.com,one hundred,2023-07-09,N/A
+1029,George Anderson ,60,betty@mail.com,NaN,2023-07-16,North
+1030,betty martin, ,david@example,-150,2023-07-23,North
+1031,Thomas Davis,25,lucas@@mail.com,450.75,2023-07-30,North
+1032,Frank Johnson,forty,charlie@,800.5,2023-08-06,WEST
+1033,Robert Lee,50,david@example,300,2023-08-13,East
+1034,henry thompson,60,nancy @mail.com,430,2023-08-20,
+1035,Mark Brown,60,henry@example.com ,500.25,2023-08-27,North
+1036,Helen Martinez ,70,helen@,300,2023-09-03,N/A
+1037,David Hernandez,29,michael@mail,430,2023-09-10,
+1038,HENRY THOMPSON,,charlie@,800.00,2023-09-17,N/A
+1039,SUSAN ANDERSON,forty,frank@mail.com,250.5,2023-09-24,South
+1040,Alice Williams ,Twenty-two,bob[at]email.com,650,2023-10-01,North
+1041,david garcia,70,betty@mail.com,650,2023-10-08,West
+1042,KAREN LEE, ,alice@example.com,One Thousand,2023-10-15,N/A
+1043,P@tricia Johnson,35,kevin@@mail.com,One Thousand,2023-10-22,N/A
+1044,CHARLIE MOORE,sixty,patricia@,285,2023-10-29,south
+1045,Bob Martinez ,,david@example,NaN,2023-11-05,N/A
+1046,Eva Hernandez ,sixty,alice@example.com,-90,2023-11-12,West
+1047,Daniel Jackson,25,frank@mail.com,400.75,2023-11-19,East 
+1048,J@mes Anderson,70,frank@mail.com,430,2023-11-26,East 
+1049,MICHAEL MARTIN,Twenty-two,mark@@mail.com,One Thousand,2023-12-03,West
+1050,Mark Lopez,,alice@example.com,450.75,2023-12-10,North
+1051,mark moore,35,barbara@mail.com,400.75,2023-12-17,
+1052,Henry Taylor,60,alice@example.com,285,2023-12-24,South
+1053,Ch@rlie Anderson,30,kevin@@mail.com,300,2023-12-31,North
+1054, Henry Martinez,50,james@mail.com,,2024-01-07,East
+1055,SUSAN HERNANDEZ,25,ivy.com,350,2024-01-14,WEST
+1056,ALICE JONES,29,charlie@,-150,2024-01-21,
+1057, Robert Thompson, ,jackson@email.com,250.5,2024-01-28,N/A
+1058,Mark Lee,forty,susan@mail.com,700.6,2024-02-04,East
+1059,Linda Williams ,35,robert.com,-150,2024-02-11,WEST
+1060,LUCAS THOMPSON,35,bob[at]email.com,200,2024-02-18,West
+1061,Mark Brown, ,christopher@mail,1200,2024-02-25,North
+1062,Michael Martin,30,barbara@mail.com,800.00,2024-03-03,North
+1063,Nancy Williams,forty,robert.com,285,2024-03-10,North
+1064,HELEN WHITE,40,sophia@mail.com,600,2024-03-17,south
+1065,BOB JONES,Thirty-five,eva@example.com,1200,2024-03-24,East 
+1066,Patricia Lopez,Thirty-five,susan@mail.com,700,2024-03-31,East 
+1067, Charlie Thomas,40,henry@example.com ,one hundred,2024-04-07,West
+1068, Bob Williams,Thirty-five,thomas@mail.com,410,2024-04-14,WEST
+1069,Eva Brown, ,bob[at]email.com,430,2024-04-21,East 
+1070,ivy jones,50,nancy @mail.com,-200,2024-04-28,south
+1071,Paul Moore,25,patricia@,One Thousand,2024-05-05,East
+1072,David Brown,40,christopher@mail,430,2024-05-12,West
+1073,daniel taylor,Twenty-two,linda@mail.com,-90,2024-05-19,East
+1074,Mark Thompson ,Twenty-two,thomas@mail.com,600,2024-05-26,North
+1075,CHARLIE JOHNSON,30,charlie@,NaN,2024-06-02,N/A
+1076,Kevin Martinez ,Thirty-five,eva@example.com,800.00,2024-06-09,N/A
+1077,Daniel Johnson ,35,paul@mail,NaN,2024-06-16,West
+1078,eva jackson,sixty,thomas@mail.com,350,2024-06-23,East 
+1079,MARK JONES,Twenty-two,karen.com,300,2024-06-30,South
+1080,MARK THOMAS,35,bob[at]email.com,-90,2024-07-07,East
+1081,D@niel Jackson,Twenty-two,robert.com,500.25,2024-07-14,North
+1082,Daniel Hernandez ,50,eva@example.com,450.75,2024-07-21,East
+1083,Bob Williams,40,ivy.com,300.25,2024-07-28,East 
+1084,Paul Garcia,35,betty@mail.com,,2024-08-04,North
+1085,PATRICIA SMITH,30,bob[at]email.com,700,2024-08-11,East 
+1086,HENRY THOMAS,29,lucas@@mail.com,700,2024-08-18,West
+1087,Karen Jones, ,paul@mail,NaN,2024-08-25,East
+1088,James Anderson,35,karen.com,500.25,2024-09-01,WEST
+1089, Henry Thompson,60,alice@example.com,250.5,2024-09-08,
+1090,Linda Thompson ,29,jackson@email.com,600,2024-09-15,West
+1091, Frank Lopez, ,michael@mail,-150,2024-09-22,North
+1092,Helen White,,thomas@mail.com,650,2024-09-29,East 
+1093,Jackson Martin ,sixty,michael@mail,200,2024-10-06,
+1094,Susan Smith ,29,robert.com,-200,2024-10-13,south
+1095,George Jones,29,james@mail.com,300.25,2024-10-20,N/A
+1096,SOPHIA GARCIA, ,susan@mail.com,650,2024-10-27,East
+1097,Helen Anderson,35,barbara@mail.com,600,2024-11-03,North
+1098,DAVID BROWN,sixty,james@mail.com,900,2024-11-10,East
+1099,Mark Smith, ,mark@@mail.com,285,2024-11-17,
+1100,Helen Garcia,70,paul@mail,900,2024-11-24,WEST

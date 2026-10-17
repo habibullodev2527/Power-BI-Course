@@ -1,0 +1,21 @@
+doctor_id,doctor_name,specialization,experience_years,hospital_branch
+1,Paul Flores,Cardiology,16,City Hospital A
+2,Joseph Morgan,Orthopedics,2,City Hospital B
+3,Vanessa Hendrix,Neurology,21,City Hospital A
+4,Michelle Sanchez,Cardiology,25,City Hospital A
+5,Mr. Michael Roberts,Neurology,7,City Hospital A
+6,Robert Proctor,Orthopedics,5,City Hospital A
+7,David Guerra,Neurology,16,Clinic C
+8,Gary Simmons,Cardiology,19,City Hospital A
+9,Christopher Mcintosh,Pediatrics,23,City Hospital B
+10,Kyle Owens DDS,General,6,Clinic C
+11,Nicole Powell,Orthopedics,24,Clinic C
+12,Paul Stevenson,Cardiology,25,City Hospital A
+13,Mr. Richard Logan,General,4,Clinic C
+14,Gabriella Simpson,Cardiology,30,City Hospital B
+15,Mrs. Judith Diaz,Orthopedics,22,City Hospital B
+16,Justin Pratt,Pediatrics,23,City Hospital A
+17,David Cobb,Cardiology,19,Clinic C
+18,Felicia Haynes,Neurology,4,Clinic C
+19,Ronald Norton,General,28,Clinic C
+20,Mr. Andrew Rose Jr.,Orthopedics,26,City Hospital A

@@ -1,0 +1,73 @@
+ID,Date,City,Consumption,Cost,EnergyType
+1,2024-01-01,New York,30,6,Electricity
+2,2024-01-02,Chicago,40,7,Gas
+3,2024-01-03,London,25,6.5,Electricity
+4,2024-01-04,Tokyo,35,7.7,Electricity
+5,2024-01-05,Berlin,50,9,Gas
+6,2024-01-06,Paris,28,6.8,Electricity
+7,2024-01-07,Dubai,45,8.5,Electricity
+8,2024-01-08,Singapore,32,7.2,Electricity
+9,2024-01-09,Istanbul,38,7.8,Gas
+10,2024-01-10,Seoul,34,7.1,Electricity
+11,2024-01-11,New York,31,6.2,Gas
+12,2024-01-12,Chicago,42,7.3,Gas
+13,2024-01-13,London,26,6.6,Electricity
+14,2024-01-14,Tokyo,36,7.9,Electricity
+15,2024-01-15,Berlin,48,8.8,Gas
+16,2024-01-16,Paris,29,6.9,Electricity
+17,2024-01-17,Dubai,47,8.7,Electricity
+18,2024-01-18,Singapore,33,7.3,Electricity
+19,2024-01-19,Istanbul,39,8,Gas
+20,2024-01-20,Seoul,35,7.2,Electricity
+21,2024-01-21,New York,32,6.4,Electricity
+22,2024-01-22,Chicago,41,7.2,Gas
+23,2024-01-23,London,27,6.7,Electricity
+24,2024-01-24,Tokyo,37,8,Electricity
+25,2024-01-25,Berlin,49,9,Gas
+26,2024-01-26,Paris,30,7,Electricity
+27,2024-01-27,Dubai,46,8.6,Electricity
+28,2024-01-28,Singapore,34,7.4,Electricity
+29,2024-01-29,Istanbul,37,7.9,Gas
+30,2024-01-30,Seoul,36,7.3,Electricity
+31,2024-01-31,New York,33,6.5,Electricity
+32,2024-02-01,Chicago,43,7.4,Gas
+33,2024-02-02,London,28,6.8,Electricity
+34,2024-02-03,Tokyo,38,8.1,Electricity
+35,2024-02-04,Berlin,47,8.7,Gas
+36,2024-02-05,Paris,31,7.1,Electricity
+37,2024-02-06,Dubai,48,8.9,Electricity
+38,2024-02-07,Singapore,35,7.5,Electricity
+39,2024-02-08,Istanbul,36,7.8,Gas
+40,2024-02-09,Seoul,37,7.4,Electricity
+41,2024-02-10,New York,34,6.6,Electricity
+42,2024-02-11,Chicago,44,7.5,Gas
+43,2024-02-12,London,29,6.9,Electricity
+44,2024-02-13,Tokyo,39,8.2,Electricity
+45,2024-02-14,Berlin,46,8.6,Gas
+46,2024-02-15,Paris,32,7.2,Electricity
+47,2024-02-16,Dubai,49,9,Electricity
+48,2024-02-17,Singapore,36,7.6,Electricity
+49,2024-02-18,Istanbul,35,7.7,Gas
+50,2024-02-19,Seoul,38,7.5,Electricity
+51,2024-02-20,New York,35,6.7,Electricity
+52,2024-02-21,Chicago,45,7.6,Gas
+53,2024-02-22,London,30,7,Electricity
+54,2024-02-23,Tokyo,40,8.3,Electricity
+55,2024-02-24,Berlin,45,8.5,Gas
+56,2024-02-25,Paris,33,7.3,Electricity
+57,2024-02-26,Dubai,50,9.2,Electricity
+58,2024-02-27,Singapore,37,7.7,Electricity
+59,2024-02-28,Istanbul,34,7.6,Gas
+60,2024-02-29,Seoul,39,7.6,Electricity
+61,2024-03-01,New York,36,6.8,Electricity
+62,2024-03-02,Chicago,46,7.7,Gas
+63,2024-03-03,London,31,7.1,Electricity
+64,2024-03-04,Tokyo,41,8.4,Electricity
+65,2024-03-05,Berlin,44,8.4,Gas
+66,2024-03-06,Paris,34,7.4,Electricity
+67,2024-03-07,Dubai,51,9.3,Electricity
+68,2024-03-08,Singapore,38,7.8,Electricity
+69,2024-03-09,Istanbul,33,7.5,Gas
+70,2024-03-10,Seoul,40,7.7,Electricity
+71,2024-03-11,New York,37,6.9,Electricity
+72,2024-03-12,Chicago,47,7.8,Gas

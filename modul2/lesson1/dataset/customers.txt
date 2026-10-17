@@ -1,0 +1,9 @@
+CustomerID,CustomerName,Segment
+101,Ali,Corporate
+102,Vali,Consumer
+103,Sara,Home Office
+104,John,Corporate
+105,Madina,Consumer
+106,Aziz,Consumer
+107,Lola,Corporate
+108,Tom,Home Office

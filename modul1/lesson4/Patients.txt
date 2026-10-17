@@ -1,0 +1,9 @@
+PatientID,PatientName,Gender,Age,Country,City,InsuranceType,ChronicDisease
+P001,John Carter,Male,45,USA,New York,Private,Diabetes
+P002,Alice Brown,Female,32,USA,Chicago,Public,None
+P003,Michael Lee,Male,50,UK,London,Private,Hypertension
+P004,Yuki Tanaka,Female,28,Japan,Osaka,Public,None
+P005,Anna Muller,Female,40,Germany,Berlin,Private,Asthma
+P006,Jean Dupont,Male,55,France,Paris,Public,Diabetes
+P007,Bek Muller,Female,40,Germany,Berlin,Private,Asthma
+P008,Jo Dupont,Male,55,France,Paris,Public,Diabetes
